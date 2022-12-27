@@ -104,8 +104,6 @@ function leerDatosCurso(curso){
 
     //Agrega elementos al arreglo del carrito
    
-    console.log(articulosCarrito);
-
     carritoHTML();
 }
 
